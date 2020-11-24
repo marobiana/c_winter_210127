@@ -1,27 +1,3 @@
-## 변수와 데이터 타입  
-
-변수와 데이터타입 설명
-https://docs.google.com/document/d/1f2dcjH2y4jUB2Beb05DWCJ-KD30B_VQIbhG_ikz_D_Q/edit
-
-## 변수, 출력, 산술 연산자
-- [예제1](ex01/ex01.c): 변수 저장 및 출력, 자료형, 산술 연산자
-- [문제1](quiz01/quiz01.c): 자료형 출력 및 연산
-문제1 풀이  => 캐스팅 개념 5번문제 설명
-
-## 입력함수
-- [예제2](ex02/ex02.c): 입력
-- [문제2](quiz02/quiz02.c): 입력 받고 연산하기
-문제2 풀이 => swap 알고리즘 설명
-
-## 과제 내주기
-- [문제3](quiz03/quiz03.c): 종합문제  
-  
-  
-
-
-
---- 학생 보여주기 ---
-
 ## format 종류
 
 |format|	설명|
@@ -58,3 +34,12 @@ https://docs.google.com/document/d/1f2dcjH2y4jUB2Beb05DWCJ-KD30B_VQIbhG_ikz_D_Q/
 |long long|8|큰 범위의 정수형|-9,223,372,036,854,775,808 ~ 9,223,372,036,854,775,807|
 |float|4|실수형|±3.4 x 10^-37 ~ ±3.4 x 10^38|
 |double|8|큰 범위의 실수형|±1.7 x 10^-307 ~ ±3.4 x 10^308|
+
+## 예제
+### [예제 1](ex01/ex01.c) : 변수와 자료형, printf 함수 산술 연산자
+### [예제 2](ex02/ex02.c) : scanf 함수
+
+## 문제
+### [문제 1](quiz01) : 변수, 자료형, 출력하기(printf), format
+### [문제 2](quiz02) : 입력 함수(scanf_s)
+### [문제 3](quiz03) : 종합 문제 
