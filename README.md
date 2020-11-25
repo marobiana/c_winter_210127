@@ -1,4 +1,4 @@
-### 메일주소: gleams@kakao.com
+### 메일주소: sbr@kakao.com
 
 # 00. 환경 세팅
 ### [환경 세팅하기](00_setting/README.md)
