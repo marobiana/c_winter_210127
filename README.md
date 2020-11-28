@@ -1,4 +1,4 @@
-### 메일주소: gleams@kakao.com
+### 메일주소: sbr@kakao.com
 
 # 00. 환경 세팅
 ### [환경 세팅하기](00_setting/README.md)
@@ -8,9 +8,10 @@
 ### [강의 자료](01_variable/README.md)
 
 ## 문제
-### [문제 1](01_variable/quiz01) : 변수, 자료형, 출력하기(printf), format
-### [문제 2](01_variable/quiz02) : 입력 함수(scanf_s)
-### [문제 3](01_variable/quiz03) : 종합 문제 
+### [문제 1](01_variable/quiz01) : 출력(printf 함수), 변수, 자료형 종류
+### [문제 2](01_variable/quiz02) : 변수, 산술 연산자
+### [문제 3](01_variable/quiz03) : 형변환(casting)
+### [문제 4](01_variable/quiz04) : 입력(scanf 함수)
 
 # 02. 조건문(condition)
 
