@@ -5,6 +5,12 @@
 * 정수를 입력 받아서 2제곱의 결과를 돌려주는 함수를 만들고 호출한 값을 출력하세요.  
 > hint ) 함수 원형 - int getSquared(int x)
 
+> 입력 예시
+```
+제곱값을 구할 숫자를 입력하세요: 5
+```
+
+> 출력 예시
 ```
 5의 제곱은 25이다.
 ```
@@ -12,7 +18,7 @@
 
 ### 2. 평균 구하기 함수 
 * 4개의 값을 받아서 평균을 돌려주는 함수를 만들고 호출한 값을 출력하세요.  
-> hint ) 함수 원형 - getAverage(int score1, int score2, int score3, int score4)
+> hint ) 함수 원형 - double getAverage(int score1, int score2, int score3, int score4)
 
 > 입력 예시
 ```

@@ -20,7 +20,7 @@
 * 1 ~ 10 까지 차례로 저장된 배열을 만들고, 순서를 뒤섞어서 그 결과를 출력하세요.
 
 > **힌트**  
-> rand() 함수를 이용해서, 0번째 index의 값과 rand() 번째 index의 값의 서로 교체 하면 된다.
+> rand() 함수를 이용해서, 0번째 index의 값과 rand() 번째 index의 값의 서로 교체하면 된다.
 > rand 함수를 사용하려면 `#include<stdlib.h>` 를 추가해야 한다.
 
 ```
@@ -28,12 +28,12 @@ srand((unsigned int) time(NULL));  // rand()함수를 사용하려면 필요한 
 
 // 0번째 index와 random index와 교체를 100번 반복해서 뒤섞는다.     
 for (int i = 0; i < 100; i++) {
-	int randomNumber = rand() % 10; // 0 ~ 9까지의 숫자를 뽑는다.
+	int randomNumber = rand() % 10; // 0 ~ 9까지의 숫자를 랜덤으로 뽑는다.
 	// swap 구현
 }
 ```
 
-> 출력 예시
+> 출력 예시(매번 달라짐)
 
  ```
 4 5 7 8 9 1 3 6 2 10
