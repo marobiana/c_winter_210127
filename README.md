@@ -87,9 +87,16 @@
 ### [문제 3](09_pointer/quiz03) : 포인터 응용 고급 문제
 ### [문제 4](09_pointer/quiz04) : 포인터와 함수
 
-# 10. 구조체(structure)
+# 10. 동적 메모리(allocation)
 
-### [강의 자료](10_structure/README.md)
+### [강의 자료](10_malloc/README.md)
 
 ## 문제
-### [문제 1](10_structure/quiz01) : 구조체 사용
+### [문제 1](10_malloc/quiz01) : 동적 메모리할당
+
+# 11. 구조체(structure)
+
+### [강의 자료](11_structure/README.md)
+
+## 문제
+### [문제 1](11_structure/quiz01) : 구조체 사용
