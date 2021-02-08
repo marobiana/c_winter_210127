@@ -36,12 +36,12 @@
 
 # 04. 함수(function)
 
-### [강의 자료](04_function/README.md)
+### [강의 자료](04_fuction/README.md)
 
 ## 문제
-### [문제 1](04_function/quiz01) : 함수 사용하기
-### [문제 2](04_function/quiz02) : 함수 만들기(기본 연산)
-### [문제 3](04_function/quiz03) : 함수 만들기(제어문, 반복문)
+### [문제 1](04_fuction/quiz01) : 함수 사용하기
+### [문제 2](04_fuction/quiz02) : 함수 만들기(기본 연산)
+### [문제 3](04_fuction/quiz03) : 함수 만들기(제어문, 반복문)
 
 # 05. 중첩 반복문(nested loop)
 
